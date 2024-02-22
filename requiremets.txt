@@ -1,0 +1,6 @@
+tensorflow
+keras
+os
+cv2
+pandas
+numpy
